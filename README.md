@@ -1,8 +1,8 @@
 # 안녕하세요 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kim-Suil&show_icons=true&theme=tokyonight)
+> 🌱 배우는 걸 좋아하는 개발자 Kim-Suil입니다.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kim-Suil&theme=tokyonight)
+![Visitor Count](https://komarev.com/ghpvc/?username=Kim-Suil&color=blueviolet&style=for-the-badge)
 
 ## 🛠 기술 스택
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
@@ -14,3 +14,14 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📊 GitHub 통계
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kim-Suil&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Kim-Suil&theme=tokyonight)
+
+## 🏆 트로피
+![Trophy](https://github-profile-trophy.vercel.app/?username=Kim-Suil&theme=tokyonight&column=4)
+
+## 🐍 커밋 스네이크
+![Snake](https://github.com/Kim-Suil/Kim-Suil/blob/output/github-contribution-grid-snake-dark.svg)
